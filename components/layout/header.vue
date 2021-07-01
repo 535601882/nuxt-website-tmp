@@ -11,7 +11,7 @@
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!--RD Navbar Brand-->
                   <div class="rd-navbar-brand">
-                    <!--Brand--><nuxt-link class="brand" to="/index"><img class="brand-logo-dark" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/><img class="brand-logo-light" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/></nuxt-link>
+                    <!--Brand--><nuxt-link class="brand" to="/"><img class="brand-logo-dark" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/><img class="brand-logo-light" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/></nuxt-link>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
@@ -32,7 +32,7 @@ export default {
         const menus = [
       {
         name:"Home",
-        url:"/index"
+        url:"/"
       },
       {
         name:"About Us",

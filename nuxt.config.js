@@ -37,7 +37,7 @@ module.exports = {
     }
   },
   router: {
-    linkActiveClass: 'active'
+    linkExactActiveClass: 'exact-active-link'
   },
   modules: [
     '@nuxtjs/axios',

@@ -5,7 +5,7 @@
             <div class="row row-30">
               <div class="col-sm-6 col-lg-3">
                 <div class="brand-footer">
-                  <!--Brand--><nuxt-link class="brand" to="/index"><img class="brand-logo-dark" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/><img class="brand-logo-light" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/></nuxt-link>
+                  <!--Brand--><nuxt-link class="brand" to="/"><img class="brand-logo-dark" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/><img class="brand-logo-light" src="~/assets/images/logo-default-300x100.png" alt="" width="150" height="50"/></nuxt-link>
                 </div>
                 <ul class="contact-list">
                   <li> <span>Phone:  </span><a href="tel:#">+ 1 (045) - 224 - 12 - 67</a></li>

@@ -4097,7 +4097,7 @@ html.tablet .ui-to-top {
   color: #5d6678
 }
 
-.rd-navbar-static .rd-nav-item.active .rd-nav-link:before,.rd-navbar-static .rd-nav-item .active.rd-nav-link:before {
+.rd-navbar-static .rd-nav-item.active .rd-nav-link:before,.rd-navbar-static .rd-nav-item .exact-active-link.rd-nav-link:before {
   width: 100%
 }
 
